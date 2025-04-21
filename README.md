@@ -2,12 +2,6 @@
 
 Dart implementation of sprintf.
 
-[![Build Status](https://travis-ci.org/Naddiseo/dart-sprintf.svg?branch=master)](https://travis-ci.org/Naddiseo/dart-sprintf/)
-
-## ChangeLog
-
-[ChangeLog.md](CHANGELOG.md)
-
 ## Getting Started
 
 Add the following to your **pubspec.yaml**:
